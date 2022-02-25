@@ -2,7 +2,7 @@
 editing this file from github web 
 Welcome to Telusko Kitchen_6_10pm edit to get co nflict
 
-Kheer
+Kheer adding from git UI
 Pasta
 Chicken Fry
 
